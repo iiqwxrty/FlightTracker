@@ -17,4 +17,4 @@ for i in response.json()["data"]:
 print(dotenv["api_key"])
 # step 4: loop through the flights and check which flights are active
 
-# step 5: if active, print the airline, date, departure airport and arrival airport
+# step 5: if active, print the airline, date, departure airport and arrival airport HELLAO!
